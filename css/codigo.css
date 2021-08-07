@@ -1,0 +1,93 @@
+.botoninicio{
+    font-size: 30px;
+    padding: 20px;
+    background-color: rgb(19, 132, 231);
+    position: relative;
+    top: 0;
+    bottom:0 ;
+    right:0 ;
+    left: 400px;
+}
+.acercadenosotros{
+    font-size: 30px;
+    padding: 20px;
+    background-color: rgb(19, 132, 231);
+    position: relative;
+    top: 0;
+    bottom:0 ;
+    right:0 ;
+    left: 395px;
+}
+.copyright1{
+    position: relative;
+    top: 0;
+    bottom:100px;
+    right:0 ;
+    left: 550px;
+    background-color: aquamarine;
+    display: inline-block;
+    line-height: 50px;
+    text-align: center;
+}
+.sobretexto{
+    font-size: 100px;
+}
+.aboutme{
+    background-color: black;
+    color: azure;
+    display: inline-block;
+    padding: 50px;
+}
+.ImagenInicio{
+    height: 10px;
+    width: 10px;
+    position: relative;
+    top: 100;
+    bottom: 0;
+    left: 250;
+    right: 100;
+}
+.inicioexplicacion{
+    font-size: 50px;
+    position: relative;
+    top: 700px;
+    left: 300px;
+}
+.EstadoBoton{
+    font-size: 30px;
+    padding: 20px;
+    background-color: rgb(19, 132, 231);
+    position: relative;
+    top: 0;
+    bottom:0 ;
+    right:0 ;
+    left: 390px;
+
+}
+.comprarBoton{
+    font-size: 30px;
+    padding: 20px;
+    background-color: rgb(19, 132, 231);
+    position: relative;
+    top: 0;
+    bottom:0 ;
+    right:0 ;
+    left: 380px;
+}
+.boton2comprar{
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(19, 132, 231);
+    position: relative;
+}
+.Botoncompras{
+    font-size: 30px;
+    padding: 20px;
+    background-color: rgb(19, 132, 231);
+    position: relative;
+    top: 0;
+    bottom:0 ;
+    right:0 ;
+    left: 370px;
+
+}

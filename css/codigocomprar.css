@@ -1,0 +1,19 @@
+*{
+    background-color:greenyellow;
+
+}
+.comprado{
+    font-size: 100px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.botoninicio2{
+    font-size: 30px;
+    padding: 20px;
+    background-color: rgb(19, 132, 231);
+    position: relative;
+    top: 0;
+    bottom:0 ;
+    right:0 ;
+    left: 400px;
+}
